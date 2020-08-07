@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">81f4e4a8dbe61010284ee04a48961998</icon>
+        <item_view display_value="Ramesh Detail Screen Item View">89f4e4a8dbe61010284ee04a4896199c</item_view>
+        <name>Ramesh Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:45:00</sys_created_on>
+        <sys_id>1df4e4a8dbe61010284ee04a4896199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ramesh Form Screen</sys_name>
+        <sys_package display_value="Myservice" source="x_430176_myservice">375428a8dbe61010284ee04a489619f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Myservice">375428a8dbe61010284ee04a489619f3</sys_scope>
+        <sys_update_name>sys_sg_form_screen_1df4e4a8dbe61010284ee04a4896199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:45:00</sys_updated_on>
+        <table>x_430176_myservice_ramesh</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1df4e4a8dbe61010284ee04a4896199d"/>
+</record_update>

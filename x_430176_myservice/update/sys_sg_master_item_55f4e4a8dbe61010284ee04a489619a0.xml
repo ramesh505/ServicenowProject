@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_430176_myservice_ramesh</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Ramesh Form Screen">1df4e4a8dbe61010284ee04a4896199d</embedded_screen>
+        <item_view display_value="Ramesh List Screen Item View">cdf4e4a8dbe61010284ee04a4896199b</item_view>
+        <name>Ramesh master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:45:00</sys_created_on>
+        <sys_id>55f4e4a8dbe61010284ee04a489619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ramesh master_item</sys_name>
+        <sys_package display_value="Myservice" source="x_430176_myservice">375428a8dbe61010284ee04a489619f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Myservice">375428a8dbe61010284ee04a489619f3</sys_scope>
+        <sys_update_name>sys_sg_master_item_55f4e4a8dbe61010284ee04a489619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:45:00</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
